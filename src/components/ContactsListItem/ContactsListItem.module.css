@@ -1,0 +1,11 @@
+.buttonDelete {
+    margin: 10px;
+    border-radius: 4px;
+    border-color: black;
+    
+  }
+
+  .listItem{
+display: flex;
+flex-direction: row;
+  }

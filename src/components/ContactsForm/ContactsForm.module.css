@@ -1,0 +1,16 @@
+.inputData{
+    margin: 20px;
+    border-color: rgb(191, 186, 186);
+    
+}
+.labelForm{
+    /* margin-left: 10px; */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.labelText{
+text-decoration-line: underline;
+text-decoration-color: forestgreen ;
+}
